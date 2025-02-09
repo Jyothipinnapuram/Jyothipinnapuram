@@ -10,7 +10,8 @@
 
  💼 Looking to Collaborate On  
 - Internships in **content writing, digital marketing, and design**  
-- Open-source projects in **Python and creative content**  
+- Open-source projects in **Python and creative content**
+- job in software
 
  🛠️ Tech & Skills  
 - Programming: Python, C, HTML, CSS, JavaScript  
