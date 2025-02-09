@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Jyothipinnapuram
-- 👀 I’m interested in ... Content Writing , digital marketing,python,creative writing,graphical designing
-- 🌱 I’m currently learning ...Digital Marketing,Graphical designing
-- 💞️ I’m looking to collaborate on ...internships in above fields
-- 📫 How to reach me ... pinnapuramjyothi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 👋 Hi, I'm Jyothi Pinnapuram!  
 
-<!---
-Jyothipinnapuram/Jyothipinnapuram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Final-year Computer Science Student | Digital Marketer | Content Creator  
+
+💡 Passionate about **content writing, digital marketing, Python, creative writing, and graphical design**. I love learning new technologies and working on innovative projects that blend tech and creativity!  
+
+ 🌱 Currently Learning  
+- Digital Marketing** – SEO, social media strategies, content marketing  
+- Graphical Designing – UI/UX design, Adobe tools, Canva  
+
+ 💼 Looking to Collaborate On  
+- Internships in **content writing, digital marketing, and design**  
+- Open-source projects in **Python and creative content**  
+
+ 🛠️ Tech & Skills  
+- Programming: Python, C, HTML, CSS, JavaScript  
+- Marketing & Content:** SEO, blogging, social media marketing  
+- Design: Canva, UI/UX, Adobe tools  
+- Tools: Git, GitHub, Firebase, Google Maps API  
+
+📌 Projects  
+🔹 Restaurants Social Mobile App – Social features + Google Maps API integration 🍽️  
+🔹 QR Code Generator – A dynamic tool for generating QR codes 🔗  
+🔹 Personal Portfolio Website – Showcasing my skills, projects, and experience 🌐  
+🔹 Techy Life Blog – Writing about the latest trends in tech and digital marketing ✍️  
+
+ 📫 Connect With Me  
+📧 Email: pinnapuramjyothi@gmail.com  
+🔗 LinkedIn: [Jyothi Pinnapuram](https://www.linkedin.com/in/jyothi-pinnapuram-a60254297)  
+
+⚡ Fun Fact: I love experimenting with AI tools, designing creative content, and exploring new tech trends!  
