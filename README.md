@@ -1,32 +1,27 @@
- 👋 Hi, I'm Jyothi Pinnapuram!  
+Hi there 👋 I'm Jyothi Pinnapuram
 
-🚀 Final-year Computer Science Student | Digital Marketer | Content Creator  
+🎓 Graduate | Computer Science Student | 💻 Aspiring Full Stack Developer | 📊 Budding Data Analyst
 
-💡 Passionate about **content writing, digital marketing, Python, creative writing, and graphical design**. I love learning new technologies and working on innovative projects that blend tech and creativity!  
+Welcome to my GitHub! I'm passionate about building real-world projects and constantly learning new technologies. I love combining my interests in **software development**, **data visualization**, and **digital innovation** to create meaningful solutions.
 
- 🌱 Currently Learning  
-- Digital Marketing** – SEO, social media strategies, content marketing  
-- Graphical Designing – UI/UX design, Adobe tools, Canva  
+🔧 Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Flask, Django (basic)
+- Database: MySQL, Firebase, MongoDB
+- Data Tools: Power BI, Pandas
+- Others: Git, GitHub, VS Code, Postman, Canva
 
- 💼 Looking to Collaborate On  
-- Internships in **content writing, digital marketing, and design**  
-- Open-source projects in **Python and creative content**
-- job in software
+🌱 Currently Learning
+- Java Full Stack Development  
+- Flutter for Mobile App Development  
+- Power BI for Data Analytics
 
- 🛠️ Tech & Skills  
-- Programming: Python, C, HTML, CSS, JavaScript  
-- Marketing & Content:** SEO, blogging, social media marketing  
-- Design: Canva, UI/UX, Adobe tools  
-- Tools: Git, GitHub, Firebase, Google Maps API  
+📌 Projects
+- PG Goog App – A community-driven PG review and listing platform  
+- Faculty Attendance System with Power BI – Real-time data tracking using biometric data  
 
-📌 Projects  
-🔹 Restaurants Social Mobile App – Social features + Google Maps API integration 🍽️  
-🔹 QR Code Generator – A dynamic tool for generating QR codes 🔗  
-🔹 Personal Portfolio Website – Showcasing my skills, projects, and experience 🌐  
-🔹 Techy Life Blog – Writing about the latest trends in tech and digital marketing ✍️  
+📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+-     pinnapuramJyothi@gmai.com
 
- 📫 Connect With Me  
-📧 Email: pinnapuramjyothi@gmail.com  
-🔗 LinkedIn: [Jyothi Pinnapuram](https://www.linkedin.com/in/jyothi-pinnapuram-a60254297)  
-
-⚡ Fun Fact: I love experimenting with AI tools, designing creative content, and exploring new tech trends!  
+Thanks for visiting! ⭐️
